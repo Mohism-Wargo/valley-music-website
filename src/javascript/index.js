@@ -19,6 +19,7 @@ class Player {
         this.start()
         this.bind()
         // https://mohism-wargo.github.io/Simulate-data/music-list.json
+        // 提交测试
     }
 
     // 设置模式按钮的UI
